@@ -3,6 +3,8 @@ Ligature Symbols is WebFont project to display the symbol with a ligature featur
 If you want to learn more, you may read [my blog entry](http://d.hatena.ne.jp/kudakurage/20120720/1342749116).
 Demo: [http://kudakurage.com/ligature_symbols/](http://kudakurage.com/ligature_symbols/)
 
+If you want to learn more, you may read [my blog entry](https://golfwatchs.com/fintechzoom-rolex-submariner-replica-watches/).
+
 ## Browser Support
 Ligature Symbols works in all major browsers (Chrome, Firefox, Safari, Opera, IE, iOS, Android)
 
